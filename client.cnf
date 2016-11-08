@@ -1,0 +1,7 @@
+[req] 
+default_bits       = 4096
+encrypt_key        = no
+default_md         = sha256
+distinguished_name = req_distinguished_name
+
+[ req_distinguished_name ]
